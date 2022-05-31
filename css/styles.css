@@ -115,6 +115,7 @@ a:hover{
   color: #40514E;
 }
 .bottom-cloud{
+  padding-left: 1px;
   position: absolute;
   left: 300px;
   bottom:500px;
