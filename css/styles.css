@@ -23,6 +23,9 @@ h2{
   padding-bottom: 10px;
 
 }
+.container-fluid{
+  padding: 0px;
+}
 
 
 h3{
@@ -129,6 +132,7 @@ a:hover{
   margin-right: 30px;
 }
 .forest{
+  max-width: 400px;
   width: 400px;
   width: 50%;
 
