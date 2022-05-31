@@ -32,6 +32,10 @@ h2{
   margin-top: 50px;
   width: 100px;
 }
+.icons:hover{
+  color: #11999E;
+}
+
 .feature-box{
   padding: 10px;
     margin-top: 50px;
