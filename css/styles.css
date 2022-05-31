@@ -24,7 +24,9 @@ h2{
 
 }
 .container-fluid{
-  padding: 0px;
+    background-color: #E4F9F5;
+
+  padding: 2px;
 }
 
 
@@ -115,9 +117,11 @@ a:hover{
   color: #40514E;
 }
 .bottom-cloud{
+  max-width: 150px;
+  width: 50%;
   margin: 2px;
   padding-left: 1px;
-  position: absolute;
+  position:absolute ;
   left: 300px;
   bottom:500px;
 }
